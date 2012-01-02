@@ -4,7 +4,7 @@ Donate link:
 Tags: statistics, stats, visits, logs
 Requires at least: 3.3
 Tested up to: 3.3
-Stable tag: not yet on SVN
+Stable tag: trunk
 
 A plugin to log information about your visitors.
 Logs are stored in files on your server for later exploitation.
