@@ -64,8 +64,6 @@ Note that other strategies could be implemented.
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
 1. Unzip the plugin archive on your local disk
 1. Upload the `lex-visits-logger` directory to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
@@ -73,11 +71,11 @@ This section describes how to install the plugin and get it working.
 
 == Frequently Asked Questions ==
 
-None known for the moment.
+Nothing for the moment.
 
 == Screenshots ==
 
-1. Lex-Visits-Logger--Admin-Panel.jpg
+1. The plugin settings in the administration panel.
 
 == Changelog ==
 
